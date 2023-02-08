@@ -1,10 +1,10 @@
-package taaewoo.BDP_Monitoring_System;
+package taaewoo.Capybara;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BdpMonitoringSystemApplicationTests {
+class CapybaraApplicationTests {
 
 	@Test
 	void contextLoads() {

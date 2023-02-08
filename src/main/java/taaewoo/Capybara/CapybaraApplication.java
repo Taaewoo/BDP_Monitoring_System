@@ -1,13 +1,13 @@
-package taaewoo.BDP_Monitoring_System;
+package taaewoo.Capybara;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BdpMonitoringSystemApplication {
+public class CapybaraApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BdpMonitoringSystemApplication.class, args);
+		SpringApplication.run(CapybaraApplication.class, args);
 	}
 
 }
